@@ -173,17 +173,4 @@ Ensuite, un **cerveau électronique** (le BMS et le chip de gestion USB) contrô
 
 ---
 
-## 12. 📂 Structure GitHub recommandée
 
-```
-/Gerbers        → fichiers fabrication PCB
-/Schematics     → schéma KiCad ou PDF
-/BOM            → liste composants
-/AssemblyGuide  → photos étapes soudure et câblage
-/README.md      → ce guide complet
-```
-
----
-
-Veux-tu que je te fasse **le schéma KiCad complet** avec **toutes ces empreintes et couches** prêtes pour fabrication ?
-Comme ça tu pourrais le mettre directement dans ton GitHub avec Gerbers et BOM.
