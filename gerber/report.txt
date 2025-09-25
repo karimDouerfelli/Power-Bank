@@ -1,0 +1,14 @@
+Plotted to '/home/karim/power_bank/gerber/power_bank-F_Cu.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-In1_Cu.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-In2_Cu.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-B_Cu.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-F_Paste.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-B_Paste.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-F_Silkscreen.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-B_Silkscreen.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-F_Mask.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-B_Mask.gbr'.
+Plotted to '/home/karim/power_bank/gerber/power_bank-Edge_Cuts.gbr'.
+Created Gerber job file '/home/karim/power_bank/gerber/power_bank-job.gbrjob'.
+Info: Done.
+Info: Done.

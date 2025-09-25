@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d521898f-42c3-41d7-b202-1ed9fd697eca")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125.73 19.05)
+		(size 153.67 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b5dffe2-1f5d-4419-92fc-da043a7f05df")
+		(property "Sheetname" "IO_UI"
+			(at 125.73 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO_UI.kicad_sch"
+			(at 125.73 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "power_bank"
+				(path "/d521898f-42c3-41d7-b202-1ed9fd697eca"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 113.03)
+		(size 149.86 80.01)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a188b452-8547-41e1-9883-90953c833f83")
+		(property "Sheetname" "POWER_SOC"
+			(at 19.05 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_SOC.kicad_sch"
+			(at 19.05 193.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "power_bank"
+				(path "/d521898f-42c3-41d7-b202-1ed9fd697eca"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
